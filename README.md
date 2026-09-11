@@ -51,3 +51,7 @@ create table notes (
 - `/items/:id/edit`
 - `/about`
 - `*`
+
+## 배포 URL
+
+- Vercel: https://my-spa-app-seven.vercel.app
